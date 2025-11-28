@@ -4,7 +4,7 @@
 This is a simple static restaurant website designed and developed by Zahra Azizi using pure HTML and CSS with Flexbox layout.  
 The main goal of this project was to practice layout structure, Flexbox positioning, and basic styling techniques.
 
-💻- [Demo Project]{https://zahra-azizi-dev.github.io/my-second-project/}
+💻- [Demo Project] https://zahra-azizi-dev.github.io/my-second-project/
 
 
 📷 Preview | Screenshots
